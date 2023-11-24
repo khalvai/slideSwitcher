@@ -10,8 +10,8 @@ a tool to switch in slides of power point in presentation via your phone instead
 
 ## Installation
 
-```git
-git clone https:                    slideSwitcher
+```
+git clone https://github.com/khalvai/slideSwitcher.git slideSwitcher
 ```
 
 ```
