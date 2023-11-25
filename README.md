@@ -44,6 +44,7 @@ in your phone browser you should try one of the IP's that's logged on console (i
 192.168.255.176:3000
 ```
 
+
 and you will see this page on your phone :
 
 ![slide switcher](./public/slideSwitcherOnPhone.jpg)
