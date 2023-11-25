@@ -1,0 +1,33 @@
+body {
+  width: 100%;
+  /* height: ; */
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  /* display: flex; */
+  width: 100%;
+}
+.one {
+  background-color: #347474;
+  display: block;
+  height: 46vh;
+}
+
+.two {
+  background: #42b883;
+  display: block;
+  height: 47vh;
+}
+svg {
+  color: aliceblue;
+  width: 15rem;
+  margin-top: 4rem;
+}
+.one:hover {
+  background-color: rgb(38, 100, 100);
+}
+.two:hover {
+  background: #24885b;
+}
