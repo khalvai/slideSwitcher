@@ -19,13 +19,17 @@ cd slideSwitcher
 ```
 
 ```bash
-$ npm install
+ npm install
 ```
 
 ## Running the app
 
 ```bash
-$ npm run start:dev
+ npm run build
+```
+
+```bash
+node dist/main.js
 ```
 
 now slideSwitcher is running fine on port : `3000` and you will see your computer ip address :
@@ -43,7 +47,6 @@ in your phone browser you should try one of the IP's that's logged on console (i
 ```url
 192.168.255.176:3000
 ```
-
 
 and you will see this page on your phone :
 
